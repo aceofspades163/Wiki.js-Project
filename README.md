@@ -60,7 +60,7 @@ This made it suitable for demonstrating application deployment while still provi
 
 Alpine Linux 3.19 was selected as the base image.
 
-The documented reasons were:
+Reasoning:
 
 1. **Minimal footprint** — Alpine's base image is approximately 5 MB.
 2. **Security-focused design** — A smaller base reduces the number of installed components.
